@@ -1,0 +1,54 @@
+
+W godzinach pracy:
+
+Wałbrzych - Kłodzko     :   10MB(1) | 10MB(4) + 51.5MB(4)                                   : 71.5MB
+Kłodzko - Wałbrzych     :   10MB(1) | 10MB(4) + 20MB(4)                                     : 40MB
+
+Kłodzko - Brzeg         :   10MB(6) | 10MB(7)                                               : 20MB
+Brzeg - Kłodzko         :   10MB(6) | 10MB(7)                                               : 20MB
+
+Wałbrzych - Wrocław     :   10MB(2) | 10MB(3) | 10MB(5)                                     : 30MB
+Wrocław - Wałbrzych     :   10MB(2) | 10MB(3) | 10MB(5)                                     : 30MB
+
+Wrocław - Brzeg         :   10MB(3) | 10MB(7) | 10MB(12) | 10MB(13) + 51.5MB(13)            : 91.5MB
+Brzeg - Wrocław         :   10MB(3) | 10MB(7) | 10MB(12) | 10MB(13) + 20MB(13)              : 60MB
+
+Brzeg - Opole           :   10MB(10) | 10MB(11) + 51.5MB(11) | 10MB(13) + 51.5MB(13)        : 133MB
+Opole - Brzeg           :   10MB(10) | 10MB(11) + 20MB(11)   | 10MB(13) + 20MB(13)          : 70MB
+
+Kluczbork - Opole       :   10MB(8) | 10MB(10) | 10MB(15) + 51.5MB(15)                      : 81.5MB
+Opole - Kluczbork       :   10MB(8) | 10MB(10) | 10MB(15) + 20MB(15)                        : 50MB
+
+Wrocław - Kluczbork     :   10MB(5) | 10MB(14)                                              : 20MB
+Kluczbork - Wrocław     :   10MB(5) | 10MB(14)                                              : 20MB
+
+Kłodzko - Opole         :   10MB(4) + 51.5MB(4) | 10MB(8) | 10MB(9) + 51.5MB(9)             : 133MB
+Opole - Kłodzko         :   10MB(4) + 20MB(4)   | 10MB(8) | 10MB(9) + 20MB(9)               : 70MB
+
+
+Po godzinach pracy:
+
+Wałbrzych - Kłodzko     :   10.8MB(1) | 10.8MB(4) + 55MB(4)                                 : 76.6MB
+Kłodzko - Wałbrzych     :   10.8MB(1) | 10.8MB(4)                                           : 21.6MB
+
+Kłodzko - Brzeg         :   10.8MB(6) | 10.8MB(7)                                           : 21.6MB
+Brzeg - Kłodzko         :   10.8MB(6) | 10.8MB(7)                                           : 21.6MB
+
+Wałbrzych - Wrocław     :   10.8MB(2) | 10.8MB(3) | 10.8MB(5)                               : 32.4MB
+Wrocław - Wałbrzych     :   10.8MB(2) | 10.8MB(3) | 10.8MB(5)                               : 32.4MB
+
+Wrocław - Brzeg         :   10.8MB(3) | 10.8MB(7) | 10.8MB(12) | 10.8MB(13) + 55MB(13)      : 98.2MB
+Brzeg - Wrocław         :   10.8MB(3) | 10.8MB(7) | 10.8MB(12) | 10.8MB(13)                 : 43.2MB
+
+Brzeg - Opole           :   10.8MB(10) | 10.8MB(11) + 55MB(11) | 10.8MB(13) + 55MB(13)      : 142.4MB
+Opole - Brzeg           :   10.8MB(10) | 10.8MB(11)            | 10.8MB(13)                 : 32.4MB
+
+Kluczbork - Opole       :   10.8MB(8) | 10.8MB(10) | 10.8MB(15) + 55MB(15)                  : 87.4MB
+Opole - Kluczbork       :   10.8MB(8) | 10.8MB(10) | 10.8MB(15)                             : 32.4MB 
+
+Wrocław - Kluczbork     :   10.8MB(5) | 10.8MB(14)                                          : 21.6MB
+Kluczbork - Wrocław     :   10.8MB(5) | 10.8MB(14)                                          : 21.6MB
+
+Kłodzko - Opole         :   10.8MB(4) + 55MB(4) | 10.8MB(8) | 10.8MB(9) + 55MB(9)           : 142.4MB
+Opole - Kłodzko         :   10.8MB(4) +         | 10.8MB(8) | 10.8MB(9)                     : 32.4MB
+

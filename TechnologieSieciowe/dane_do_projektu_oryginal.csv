@@ -1,0 +1,56 @@
+Przedsiêbiorstwo/instytucja:;;Urz¹d_miejski;;;
+;;;;;
+;Liczba u¿ytkowników (komputerów);;;;
+;Budynek 1;;Budynek 2;;
+Grupa robocza;Piêtro 1;Piêtro 2;Piêtro 1;Piêtro 2;Piêtro 3
+Nieruchomoœci;37;18;40;25;38
+Podatki;8;16;0;23;22
+Pojazdy;29;38;14;21;3
+Transport;28;20;20;41;38
+Prawa_jazdy;26;36;29;20;8
+;Liczba drukarek;;;;
+;2;1;2;2;3
+;Liczba punktów dostêpowych WiFi;;;;
+;0;0;3;0;1
+;Liczba urz¹dzeñ bezprzewodowych;;;;
+;0;0;6;0;4
+;;;;;
+Odleg³oœc pomiêdzy budynkami:;;;235m (w³aœciwie nie jest to potrzebne w projekcie);;
+£¹cze pomiêdzy budynkami:;;;Optyczne jednomodowe;;
+;;;;;
+Punkty dystrybucyjne: ;;;;;
+Oznaczenie;Lokalizacja;Pod³¹czone punkty abonenckie;;;
+MDF;Bud. 2, Piêtro 3;Bud. 2, Piêtro 3,;;;
+IDF1;Bud. 2, Piêtro 1;Bud. 2, Piêtro 2,1,;;;
+IDF2;Bud. 1, Piêtro 1;Bud. 1;;;
+;;;;;
+;;;;;
+Wymagania dot. przep³ywów pomiêdzy pracownikami a serwerami lokalnymi (transfer przypadaj¹cy na jednego u¿ytkownika) - dotyczy równie¿ u¿ytkowników WiFi;;;;;
+;;;;;
+;Transfer do serwerów lokalnych i drukarek (down \ up) [kb/s];;;;
+Grupa rob. / Serwer;Serwer1;Serwer2;Serwer3;Drukarka;
+Nieruchomoœci;400\550;650\350;150\1000;10\150;
+Podatki;450\400;150\550;600\1000;10\160;
+Pojazdy;0\0;750\500;700\600;10\170;
+Transport;50\450;400\550;450\450;10\200;
+Prawa_jazdy;500\500;550\1000;600\600;10\190;
+WiFi;50\150;150\50;200\250;10\170;
+;;;;;
+Prognozowany ruch do Internetu z posiadanych przez firmê serwerów internetowych;;;;;
+;;;;;
+;Transfer do\z Internetu na jedn¹ sesjê (internautê) [kb/s] ;;;;
+Serwery internetowe;Do Internetu;Z Internetu;Liczba jednoczesnych sesji;;
+Serwer WWW;60;30;28;;
+Serwer FTP;170;60;16;;
+;;;;;
+;;;;;
+Wymagania dot. przep³ywów generowanych przez aplikacje u¿ytkownika z\do internetu  (transfer przypadaj¹cy na jednego u¿ytkownika)  - dotyczy równie¿ u¿ytkowników WiFi;;;;;
+;;;;;
+;Transfer z/do Internetu (down \ up) [kb/s];;;;
+Grupa rob./Aplikacja;Przegl¹darka;Wideokonferencja;VoIP;Klient_FTP;
+Nieruchomoœci;0\0;40\40;20\20;88\11;
+Podatki;32\10;40\40;20\20;68\20;
+Pojazdy;0\0;40\40;0\0;49\17;
+Transport;51\10;0\0;0\0;0\0;
+Prawa_jazdy;0\0;40\40;20\20;60\12;
+WiFi;62\10;40\40;20\20;43\13;
